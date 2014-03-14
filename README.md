@@ -1,4 +1,4 @@
-README - WinBurn Collection v1.0
+WinBurn Collection v1.0
 =================================
 A collection of programs, themes, skins, and various configuration files attempting to create a practical Windows environment, focusing on the Zenburn theme.
 
