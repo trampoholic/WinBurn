@@ -1,0 +1,75 @@
+@-moz-document domain("craigslist.org") {
+
+	* {
+
+		color: #D4C4A9 !important;
+
+	}
+
+
+
+	body, div, table, tr, td, ul, .ban, article, header, footer, blockquote, form, fieldset, a {
+
+		background-color: #404040 !important;
+
+	}
+
+
+
+	a, h1,h2,h3,h4,h5 {
+
+		color: #7F9F7F !important;
+
+	}
+
+
+
+	h1,h2,h3,h4,h5 {
+
+		border-bottom: 1px solid #505050 !important;
+
+		border-top: 1px solid #505050 !important;
+
+	}
+
+
+
+	a:hover {
+
+		background-color: #505050 !important;
+
+	}
+
+
+
+	a:visited {
+
+		color: #CC9393 !important;
+
+	}
+
+
+
+	.l2 a {
+
+		color: #D4C4A9 !important;
+
+	}
+
+
+
+	li a {
+
+		border-bottom: 1px solid #505050 !important;
+
+	}
+
+
+
+	.leaflet-control a {
+
+		background-color: #ddd !important;
+
+	}
+
+}
